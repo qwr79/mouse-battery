@@ -6,7 +6,7 @@
 
 ## 下载
 
-到 [Releases](https://github.com/qwr79/mouse-battery/releases) 下载 `鼠标电量-v1.0.0-win64.zip`，
+到 [Releases](https://github.com/qwr79/mouse-battery/releases) 下载 `MouseBattery-v1.0.0-win64.zip`，
 解压后双击 `鼠标电量.exe` 即可。免安装、不需装 Python。
 
 ## 先说你的设备
